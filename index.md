@@ -1,6 +1,3 @@
-initial-scale=1">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
 div.house#h 
     div.h-lights
         div.h-light
